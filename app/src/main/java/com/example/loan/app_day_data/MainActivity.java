@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         updatanoeltext();
         updatavalentinetext();
         database = FirebaseDatabase.getInstance();
-
+//xin chao
         nammoi = (Button) findViewById(R.id.nammoi);
         noel = (Button) findViewById(R.id.noel);
         sinhnhat = (Button) findViewById(R.id.sinhnhat);
